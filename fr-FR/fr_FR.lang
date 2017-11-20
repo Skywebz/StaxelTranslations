@@ -20,88 +20,88 @@ catalogue.sell=Vendre à :
 catalogue.total=Total
 //[Reference] 'success'
 commands.tripod.success=Succès
-//TODO Translate [Reference] 'Break'
-controlHint.verb.Break=
-//TODO Translate [Reference] 'Buy'
-controlHint.verb.Buy=
-//TODO Translate [Reference] 'Calm'
-controlHint.verb.Calm=
-//TODO Translate [Reference] 'Cast'
+//[Reference] 'Break'
+controlHint.verb.Break=Casser
+//[Reference] 'Buy'
+controlHint.verb.Buy=Acheter
+//[Reference] 'Calm'
+controlHint.verb.Calm=Calmer
+//[Reference] 'Cast'
 controlHint.verb.Cast=
-//TODO Translate [Reference] 'Catch'
-controlHint.verb.Catch=
-//TODO Translate [Reference] 'Check'
+//[Reference] 'Catch'
+controlHint.verb.Catch=Attraper
+//[Reference] 'Check'
 controlHint.verb.Check=
-//TODO Translate [Reference] 'Chop'
-controlHint.verb.Chop=
-//TODO Translate [Reference] 'Command'
-controlHint.verb.Command=
-//TODO Translate [Reference] 'Cancel'
-controlHint.verb.default.Cancel=
-//TODO Translate [Reference] 'Charge'
+//[Reference] 'Chop'
+controlHint.verb.Chop=Frapper
+//[Reference] 'Command'
+controlHint.verb.Command=Commander
+//[Reference] 'Cancel'
+controlHint.verb.default.Cancel=Annuler
+//[Reference] 'Charge'
 controlHint.verb.default.Charge=
-//TODO Translate [Reference] 'Place'
-controlHint.verb.default.Dock=
-//TODO Translate [Reference] 'Drink'
-controlHint.verb.default.Drink=
-//TODO Translate [Reference] 'Eat'
-controlHint.verb.default.Eat=
-//TODO Translate [Reference] 'Harvest'
-controlHint.verb.default.Harvest=
-//TODO Translate [Reference] 'Interact'
-controlHint.verb.default.Interact=
-//TODO Translate [Reference] 'Memorise'
-controlHint.verb.default.Memorise=
-//TODO Translate [Reference] 'Replace'
-controlHint.verb.default.reDock=
-//TODO Translate [Reference] 'Rotate'
-controlHint.verb.default.Rotate=
-//TODO Translate [Reference] 'Throw'
-controlHint.verb.default.Throw=
-//TODO Translate [Reference] 'Pick Up'
-controlHint.verb.default.Undock=
-//TODO Translate [Reference] 'Use'
-controlHint.verb.default.Use=
-//TODO Translate [Reference] 'Dig'
-controlHint.verb.Dig=
-//TODO Translate [Reference] 'Fill'
-controlHint.verb.Fill=
-//TODO Translate [Reference] 'Inspect'
-controlHint.verb.Inspect=
-//TODO Translate [Reference] 'Launch'
-controlHint.verb.Launch=
-//TODO Translate [Reference] 'Milk'
-controlHint.verb.Milk=
-//TODO Translate [Reference] 'Open'
-controlHint.verb.Open=
-//TODO Translate [Reference] 'Plant'
-controlHint.verb.Plant=
-//TODO Translate [Reference] 'Pull'
-controlHint.verb.Pull=
-//TODO Translate [Reference] 'Reap'
-controlHint.verb.Reap=
-//TODO Translate [Reference] 'Rename'
-controlHint.verb.Rename=
-//TODO Translate [Reference] 'Reset'
-controlHint.verb.Reset=
-//TODO Translate [Reference] 'Resize'
-controlHint.verb.Resize=
-//TODO Translate [Reference] 'Sell'
-controlHint.verb.Sell=
-//TODO Translate [Reference] 'Shear'
-controlHint.verb.Shear=
-//TODO Translate [Reference] 'Sit'
-controlHint.verb.Sit=
-//TODO Translate [Reference] 'Sleep'
-controlHint.verb.Sleep=
-//TODO Translate [Reference] 'Sweep'
-controlHint.verb.Sweep=
-//TODO Translate [Reference] 'Chat'
-controlHint.verb.Talk=
-//TODO Translate [Reference] 'Till'
-controlHint.verb.Till=
-//TODO Translate [Reference] 'Water'
-controlHint.verb.Water=
+//[Reference] 'Place'
+controlHint.verb.default.Dock=Placer
+//[Reference] 'Drink'
+controlHint.verb.default.Drink=Boire
+//[Reference] 'Eat'
+controlHint.verb.default.Eat=Manger
+//[Reference] 'Harvest'
+controlHint.verb.default.Harvest=Récolter
+//[Reference] 'Interact'
+controlHint.verb.default.Interact=Interagir
+//[Reference] 'Memorise'
+controlHint.verb.default.Memorise=Mémoriser
+//[Reference] 'Replace'
+controlHint.verb.default.reDock=Replacer
+//[Reference] 'Rotate'
+controlHint.verb.default.Rotate=Tourner
+//[Reference] 'Throw'
+controlHint.verb.default.Throw=Jeter
+//[Reference] 'Pick Up'
+controlHint.verb.default.Undock=Ramasser
+//[Reference] 'Use'
+controlHint.verb.default.Use=Utiliser
+//[Reference] 'Dig'
+controlHint.verb.Dig=Creuser
+//[Reference] 'Fill'
+controlHint.verb.Fill=Remplir
+//[Reference] 'Inspect'
+controlHint.verb.Inspect=Inspecter
+//[Reference] 'Launch'
+controlHint.verb.Launch=Lancer
+//[Reference] 'Milk'
+controlHint.verb.Milk=Traire
+//[Reference] 'Open'
+controlHint.verb.Open=Ouvrir
+//[Reference] 'Plant'
+controlHint.verb.Plant=Planter
+//[Reference] 'Pull'
+controlHint.verb.Pull=Tirer
+//[Reference] 'Reap'
+controlHint.verb.Reap=Faucher
+//[Reference] 'Rename'
+controlHint.verb.Rename=Renommer
+//[Reference] 'Reset'
+controlHint.verb.Reset=Réinitialiser
+//[Reference] 'Resize'
+controlHint.verb.Resize=Changer la taille
+//[Reference] 'Sell'
+controlHint.verb.Sell=Vendre
+//[Reference] 'Shear'
+controlHint.verb.Shear=Tondre
+//[Reference] 'Sit'
+controlHint.verb.Sit=S'asseoir
+//[Reference] 'Sleep'
+controlHint.verb.Sleep=Dormir
+//[Reference] 'Sweep'
+controlHint.verb.Sweep=Balayer
+//[Reference] 'Chat'
+controlHint.verb.Talk=Parler
+//[Reference] 'Till'
+controlHint.verb.Till=Labourer
+//[Reference] 'Water'
+controlHint.verb.Water=Arroser
 //[Reference] 'Item Hotkeys'
 controllerHints.hotkeys=Raccourcis d'objet
 //[Reference] 'Inventory'
@@ -112,34 +112,32 @@ controllerHints.materialPick=Pipette à matériau
 controllerHints.movement=Mouvement
 //[Reference] 'Place and Rotate'
 controllerHints.placeAndRotate=Placer et tourner
-//TODO Translate [Reference] 'Assemble'
-crafting.action.keyword.assemble=
+//[Reference] 'Assemble'
+crafting.action.keyword.assemble=Assembler
 //[Reference] 'Bake'
 crafting.action.keyword.bake=Cuire au four
 //[Reference] 'Boil'
 crafting.action.keyword.boil=Bouillir
-//TODO Translate [Reference] 'Carve'
-crafting.action.keyword.carve=
-//TODO Translate [Reference] 'Carve design into'
-crafting.action.keyword.carvedesigninto=
-//TODO I guess it's 'Combine'
+//[Reference] 'Carve'
+crafting.action.keyword.carve=Sculpter
+//[Reference] 'Carve design into'
+crafting.action.keyword.carvedesigninto=Sculpter la forme
 //[Reference] 'Combine'
 crafting.action.keyword.combine=Combiner
-//TODO Translate [Reference] 'Construct'
-crafting.action.keyword.construct=
+//[Reference] 'Construct'
+crafting.action.keyword.construct=Construire
 //[Reference] 'Cut'
 crafting.action.keyword.cut=Couper
-//TODO I guess it's 'Fry'
 //[Reference] 'Fry'
 crafting.action.keyword.fry=Frire
 //[Reference] 'Mix'
 crafting.action.keyword.mix=Mélanger
-//TODO Translate [Reference] 'Reap'
-crafting.action.keyword.reap=
-//TODO Translate [Reference] 'Saw'
-crafting.action.keyword.saw=
-//TODO Translate [Reference] 'Tile'
-crafting.action.keyword.tile=
+//[Reference] 'Reap'
+crafting.action.keyword.reap=Faucher
+//[Reference] 'Saw'
+crafting.action.keyword.saw=Scier
+//[Reference] 'Tile'
+crafting.action.keyword.tile=Couvrir
 //[Reference] '{0-itemOne}, {1-itemTwo}'
 crafting.action.task.listedItems={0-itemOne}, {1-itemTwo}
 //[Reference] '{0-keyword} {1-listedItems} and {2-lastListedItem}'
@@ -150,55 +148,51 @@ crafting.action.task.multiples={0-count}x {1-item}
 crafting.action.task.oneItem={0-keyword} {1-item}
 //[Reference] 'That wasn't a recipe, Oops!'
 crafting.notifications.failedCraft=Ce n'était pas une bonne recette, oups !
-//TODO Translate [Reference] 'You can't make anything with these items...'
-crafting.notifications.notACraft=
-//TODO Translate [Reference] 'You don't have enough reagents anymore.'
-crafting.notifications.NotEnough=
+//[Reference] 'You can't make anything with these items...'
+crafting.notifications.notACraft=Vous ne pouvez rien faire avec ces objets...
+//[Reference] 'You don't have enough reagents anymore.'
+crafting.notifications.NotEnough=Vous n'avez plus assez de réactifs.
 //[Reference] 'You completed the recipe for {0-item}!'
-crafting.recipeComplete=Vous avez réalisé la recette pour {0-item} !
+crafting.recipeComplete=Vous avez réalisé la recette de : {0-item} !
 
 //[Reference] 'Helped out with the Staxel interface.'
 credits.13lueWolf.description=Il est le développeur d'interface de Staxel. Il a programmé toutes les fenêtres du jeu, y compris celle-ci.
 //[Reference] 'He helped out a bunch with the programming of the game.'
-credits.amos.description=Il a énormément participé à la programmation du jeu.
+credits.amos.description=Il a énormément participé au développement du jeu.
 //[Reference] 'Back to main menu'
-credits.back=Retour au menu
-//TODO Translate [Reference] 'Is Staxel's sound designer. He's oblivious to the luxury of listening to music while he works.'
-credits.badger.description=
+credits.back=Retour au menu principal
+//[Reference] 'Is Staxel's sound designer. He's oblivious to the luxury of listening to music while he works.'
+credits.badger.description=Designer sonore de Staxel. Il est inconscient du luxe que c'est d'écouter de la musique en travaillant.
 //[Reference] 'He is the lead developer, responsible for the coding and general awesomeness behind the game. He streams often so feel free to join him on twitch and ask some questions! Yep, he used to work on Starbound.'
-credits.bartwe.description=Il est le principal développeur, responsable du code et a fait en sorte que le jeu soit formidable. Il stream assez souvent, vous pouvez jeter un oeil à ses streams et lui poser des questions ! Et oui, il a aussi travaillé sur Starbound.
+credits.bartwe.description=Il est le développeur principal, responsable du code et a fait en sorte que le jeu soit formidable. Il stream assez souvent, vous pouvez jeter un oeil à ses streams et lui poser des questions ! Et oui, il a aussi travaillé sur Starbound.
 //[Reference] 'She was always on hand to help out with additional coding and bug fixes.'
 credits.beth.description=Elle est toujours là pour donner un coup de main avec des ajouts de code ou des corrections de bugs.
 //[Reference] 'He is a talented musician who has been creating lush soundtracks to help immerse you into the Staxel universe.'
 credits.curtis.description=C'est un musicien talentueux qui a composé de superbes bandes-sonores pour vous plonger dans l'univers de Staxel.
-//TODO Translate [Reference] 'Is yet another programmer. Generally works on helping people understand how to make mods. If you see a zombie around it's probably him.'
-credits.deamonhunter.description=
+//[Reference] 'Is yet another programmer. Generally works on helping people understand how to make mods. If you see a zombie around it's probably him.'
+credits.deamonhunter.description=Un autre développeur. Il aide souvent les gens à comprendre comment faire des mods. Si vous voyez un zombie, il doit être pas loin.
 //[Reference] 'Helped out with writing all sorts.'
 credits.demanRisu.description=Il est l'écrivain de Staxel. Il aime les arbres, les buissons, les fleurs, les insectes, l'océan, l'écriture, le game design, les gens cactus, les caves et les couchers de soleil.
-//TODO Translate [Reference] 'is another member of the programmer team who works on the more tedious stuff.'
-credits.h1n1.description=
-//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'is another member of the programmer team who works on the more tedious stuff.'
+credits.h1n1.description=Ce développeur de l'équipe travaille sur les problèmes les plus compliqués..
 //[Reference] 'A faceless entity between realms; only exists when you’re not looking. In its spare time, programs.'
-credits.moocowtg.description=Une entité sans visage entre royaumes ; il n'existe uniquement quand vous ne le regardez pas. Il programme à ses heures perdues.
+credits.moocowtg.description=Une entité sans visage entre royaumes ; il existe uniquement quand vous ne le regardez pas. Il programme à ses heures perdues.
 //[Reference] 'He is a programmer who writes music and fiction in his spare time. His cat writes approximately half of his code.'
 credits.moomba.description=C'est un programmeur, mais écrivain de fictions et compositeur à ses heures perdues. Son chat fait la moitié de son travail en tant que programmeur.
 //[Reference] 'Razz is a 3D artist working closely with Steampunkstein to bring you guys cute furniture sets and anything else she can come up with.'
 credits.razzleberryFox.description=Razz est une artiste 3D travaillant avec Steampunkstein pour créer de magnifiques meubles et tout un tas d'autres choses !
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Helped kept the team on track and busy.'
 credits.sledra.description=Il s'occupe de la gestion du projet et veille à ce que l'équipe travaille correctement sur Staxel.
 //[Reference] 'He has contributed some lovely soundtracks for Staxel.'
 credits.solatrus.description=Il a composé de magnifiques bandes-sonores pour Staxel.
 //[Reference] 'He is the artist. He has worked hard to produce all the in game models, and make the game as visually appealing as possible.'
 credits.steampunkstein.description=C'est l'artiste. Il travaille dur pour produire les modèles du jeu, et rendre le jeu aussi attrayant visuellement que possible.
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'He is the assistant producer, involved with the game design and generally has a finger in every pie.'
 credits.teaGadd.description=C'est le community manager et le chargé des relations publiques de Staxel, aidant par-ci par-là avec le game design.
 //[Reference] 'He is another programmer. Likes include: programming.'
 credits.terrorcell.description=C'est un autre programmeur. Il aime programmer. C'est tout.
-//TODO Translate [Reference] 'Is our dedicated builder. He designs the premade structures that you'll find in-game.'
-credits.winters.description=
-//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Is our dedicated builder. He designs the premade structures that you'll find in-game.'
+credits.winters.description=Notre architecte rien qu'à nous. Il bâtit toutes les structures préfaites que vous voyez en jeu.
 //[Reference] 'You're starting to feel sleepy...'
 dayNight.hintNightTransition=Il commence à faire nuit...
 //[Reference] 'MissingNotification: {0-notificationCode}'
@@ -240,31 +234,29 @@ fishing.success3=OUI !
 //[Reference] 'Press {0-gameLogicalButton} to leave bed'
 hintText.bed=Appuyez sur {0-gameLogicalButton} pour sortir du lit
 //[Reference] 'Plants won't grow here'
-hintText.cantPlantHere=Les plantes ne peut pas pousser ici
+hintText.cantPlantHere=Les plantes ne peuvent pas pousser ici
 //[Reference] 'Press {0-gameLogicalButton} to leave chair'
 hintText.chair=Appuyez sur {0-gameLogicalButton} pour vous lever
 //[Reference] 'Charge: {0:P1-chargeLevel}, Right Click or Left Trigger to Cancel'
 hintText.charge=Charge : {0:P1-chargeLevel} - Effectuez un clic droit ou appuyez sur la gâchette gauche pour annuler
 //[Reference] '{0:P0-growth}'
-hintText.checkPlantGrowth=Pourcentage de pousse : {0:P0-percentage}
+hintText.checkPlantGrowth=Croissance : {0:P0-percentage}
 //[Reference] 'It's ready for harvesting'
 hintText.checkPlantGrowth.fruited=Le plant est prêt à être récolté
 //[Reference] 'It's growing healthily'
-hintText.checkPlantGrowth.growing=Le plant pousse, en bonne santé
-//TODO Translate [Reference] 'It's sleeping for now. It doesn't grow in this season.'
-hintText.checkPlantGrowth.outOfSeason=
-//TODO Translate [Reference] 'It's sleeping for now. It doesn't grow during {0-season}'
-hintText.checkPlantGrowth.season=
+hintText.checkPlantGrowth.growing=Le plant pousse et est en bonne santé
+//[Reference] 'It's sleeping for now. It doesn't grow in this season.'
+hintText.checkPlantGrowth.outOfSeason=Rien ne se passe. Cela ne pousse pas en cette saison.
+//[Reference] 'It's sleeping for now. It doesn't grow during {0-season}'
+hintText.checkPlantGrowth.season=Rien ne se passe. Cela ne pousse pas en {0-season}
 //[Reference] 'The seeds are growing'
 hintText.checkPlantGrowth.seed=Les graines poussent
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'It's not looking healthy; it needs water.'
-hintText.checkPlantGrowth.wilted=Le plant est flétri
-//[Validate] Delete this comment if or when the translation is accurate.
+hintText.checkPlantGrowth.wilted=Le plant est flétri, il a besoin d'eau
 //[Reference] 'It's heading to the big garden in the sky. You should have watered it.'
 hintText.checkPlantGrowth.withered=Le plant est fané, et s'en va vers le Paradis des plantes...
-//TODO Translate [Reference] 'It's heading to the big garden in the sky. It can't grow during {0-season}.'
-hintText.checkPlantGrowth.witheredSeason=
+//[Reference] 'It's heading to the big garden in the sky. It can't grow during {0-season}.'
+hintText.checkPlantGrowth.witheredSeason=Ce plant s'envole au Paradis des plantes. Il ne peut pas pousser en {0-season}
 //[Reference] '{0-name}'
 hintText.inspectedEntity={0-name}
 //[Reference] 'Inventory Full'
@@ -288,7 +280,7 @@ hintText.oneSlotNeeded=1 emplacement d'inventaire requis
 //[Reference] 'You already know this recipe'
 hintText.recipeKnown=Vous connaissez déjà cette recette
 //[Reference] 'You successfully learnt the recipe for {0-recipe}!'
-hintText.recipeLearnt=Vous avez appris une nouvelle recette, pour {0-recipe} !
+hintText.recipeLearnt=Vous avez appris une nouvelle recette : {0-recipe} !
 //[Reference] 'There's nothing left to steal... for today.'
 hintText.thiefLimit=Il ne reste plus rien à voler... pour aujourd'hui.
 //[Reference] 'You are no longer a thief'
@@ -298,14 +290,14 @@ hintText.thiefSteal=Vous avez volé {0-amount} Pétales! {1-theft}
 //[Reference] 'Thief! You may be forgiven in time.'
 hintText.thiefThief=Voleur ! Vous pourrez être pardonné en temps et en heure.
 //[Reference] 'Stealing has consequences.'
-hintText.thiefWarning=Voler entraine des conséquences.
+hintText.thiefWarning=Voler entraîne des conséquences.
 //[Reference] 'Downloading bundle assets'
-loading.bundles=Téléchargement du regroupement d'assets
+loading.bundles=Téléchargement du contenu
 
 //[Reference] 'Skip'
 loading.skip=Passer
 //[Reference] 'Loot from'
-looting.loot=Prendre de
+looting.loot=Prendre à
 //[Reference] 'Steal from'
 looting.stealFrom=Voler
 
@@ -317,10 +309,10 @@ multiplayerMenu.joinServer=Rejoindre le serveur
 multiplayerMenu.serverIP=IP du Serveur :
 //[Reference] 'Server List'
 multiplayerMenu.serverList=Liste des serveurs
-//TODO Translate [Reference] 'The festival has ended.'
-notifications.festivalEnded=
-//TODO Translate [Reference] 'It looks like something is happening in the village!'
-notifications.festivalStarted=
+//[Reference] 'The festival has ended.'
+notifications.festivalEnded=Le festival est terminé.
+//[Reference] 'It looks like something is happening in the village!'
+notifications.festivalStarted=On dirait que quelque chose s'est passé dans le village !
 //[Reference] 'Options'
 options=Paramètres
 //[Reference] 'Admin'
@@ -335,7 +327,7 @@ options.admin.debug.creativeMode=Mode Créatif
 //[Reference] 'Fly Mode'
 options.admin.debug.flyMode=Mode Vol
 //[Reference] 'Increased View Range'
-options.admin.debug.IncreasedViewRange=Augmente la distance de la vue
+options.admin.debug.IncreasedViewRange=Augmente la distance d'affichage
 //[Reference] 'Make a crashlog'
 options.admin.debug.makeCrashlog=Faire un rapport d'erreur
 //[Reference] 'No Clip Mode'
@@ -363,7 +355,7 @@ options.gameplay.controller.enableController=Activer la manette
 //[Reference] 'Flip Left Y Axis'
 options.gameplay.controller.flipLeftY=Inverse l'axe Y gauche
 //[Reference] 'Flip Right Y Axis'
-options.gameplay.controller.flipRightY=Inverser l'axe Y
+options.gameplay.controller.flipRightY=Inverser l'axe Y droite
 //[Reference] 'Left Thumb Curve:'
 options.gameplay.controller.leftThumbCurve=Courbe de réponse de la gâchette gauche :
 //[Reference] 'Left Thumb Deadzone:'
@@ -395,7 +387,7 @@ options.gameplay.other=Autres
 //[Reference] 'Active Achievement Tracker'
 options.gameplay.other.activeAchievement=Activer les succès
 //[Reference] 'Chat Timestamps'
-options.gameplay.other.chatTimestamps=Horodatage dans le chat
+options.gameplay.other.chatTimestamps=Heure dans le chat
 //[Reference] 'Left Handed Mode'
 options.gameplay.other.leftHandedMode=Mode gaucher
 //[Reference] 'Scale UI with resolution'
@@ -405,13 +397,13 @@ options.gameplay.other.showClock=Afficher l'horloge
 //[Reference] 'Crafting Keyword Tags'
 options.gameplay.other.showCraftingKeywordTags=Création de mots-clés
 //TODO Translate [Reference] 'Don't stretch UI'
-options.gameplay.other.StepWiseUIScale=
+options.gameplay.other.StepWiseUIScale=Ne pas étirer l'interface
 //[Reference] 'Prevent NPC Staring'
 options.gameplay.other.StopNPCStaring=Empêcher les PNJ curieux
 //TODO Translate [Reference] 'UI'
-options.gameplay.ui=
+options.gameplay.ui=Interface
 //TODO Translate [Reference] 'UI Scale:'
-options.gameplay.ui.ManualUIScale=
+options.gameplay.ui.ManualUIScale=Echelle de l'interface
 //[Reference] 'General'
 options.general=Général
 //[Reference] 'Audio'
@@ -433,7 +425,7 @@ options.general.graphics.autoDetect=Détection automatique des paramètres graph
 //[Reference] 'Bloom'
 options.general.graphics.bloom=Éclat
 //TODO Translate [Reference] 'Borderless Window'
-options.general.graphics.borderless=
+options.general.graphics.borderless=Fenêtre sans bord
 //[Reference] 'Camera Distance:'
 options.general.graphics.cameraDistance=Distance de la caméra :
 //[Reference] 'Field Of View:'
@@ -446,7 +438,6 @@ options.general.graphics.halfResolution=Résolution
 options.general.graphics.high=Haute
 //[Reference] 'Increased View Range'
 options.general.graphics.increasedViewRange=Distance de vision augmentée
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Render Distant Terrain'
 options.general.graphics.lod=Niveau de détail
 //[Reference] 'Low'
@@ -512,19 +503,19 @@ recipeBook.grouping.roofing=Toit
 //[Reference] 'Starters'
 recipeBook.grouping.starters=Entrées
 //TODO Translate [Reference] 'stone'
-recipeBook.grouping.stone=
+recipeBook.grouping.stone=Pierre
 //[Reference] 'Walling'
 recipeBook.grouping.walling=Murs
 //TODO Translate [Reference] 'wood'
-recipeBook.grouping.wood=
+recipeBook.grouping.wood=Bois
 //[Reference] 'Ingredients'
 recipeBook.ingredients=Ingrédients
 //[Reference] 'No recipes'
 recipeBook.noRecipes=Pas de recette
 //[Reference] 'Process'
 recipeBook.process=Marche à suivre
-//TODO Translate [Reference] 'Accept'
-Renamer.accept=
+//[Reference] 'Accept'
+Renamer.accept=Accepter
 //[Reference] 'You have been muted for {0-time} minutes.'
 server.notifyPlayerMuted=Vous avez été rendu muet pour {0-time} minutes.
 //[Reference] '{0-player} has joined the server'
@@ -538,16 +529,16 @@ server.youAreUnmuted=Vous n'êtes plus muet.
 
 //[Reference] 'Back to main menu'
 serverBrowser.back=Retour
-//TODO Translate [Reference] '(check your internet connection)'
-serverBrowser.checkConnection=
-//TODO Translate [Reference] 'No servers found'
-serverBrowser.noServersFound=
+//[Reference] '(check your internet connection)'
+serverBrowser.checkConnection=(vérifiez l'état de votre connexion)
+//[Reference] 'No servers found'
+serverBrowser.noServersFound=Aucun serveur trouvé
 //[Reference] 'Online:'
 serverBrowser.online=En ligne :
 //[Reference] 'Server name:'
 serverBrowser.serverName=Nom du serveur :
-//TODO Translate [Reference] 'Master server unreachable'
-serverBrowser.unreachable=
+//[Reference] 'Master server unreachable'
+serverBrowser.unreachable=Serveur principal injoignable
 //[Reference] 'Cancel all'
 shippingCatalogue.cancelAll=Annuler
 //[Reference] 'Expedite'
@@ -559,12 +550,11 @@ shippingCatalogue.refund={0-amount} pétales vous ont été remboursées
 //[Reference] 'Check and cancel pending orders here'
 shippingCatalogue.viewOrders.description=Consultez et annulez les commandes en attente ici
 //[Reference] 'You have claimed this shipping station!'
-shippingDock.Claimed=Vous vous êtes associé à cette station d'envoi !
-//[Validate] Delete this comment if or when the translation is accurate.
+shippingDock.Claimed=Vous êtes associé à cette station d'envoi !
 //[Reference] 'Copy from'
 singleplayer.baseOff=Placement
 //TODO Translate [Reference] 'Don't copy'
-singleplayer.baseOffCancel=
+singleplayer.baseOffCancel=Ne pas copier
 //[Reference] 'Cancel'
 singleplayer.cancel=Annuler
 //[Reference] 'Are you certain you want to delete this world?'
@@ -614,16 +604,16 @@ startMenu.serverList=Liste des serveurs
 startMenu.singlePlayer=Solo
 staxel.accessories.characters.accessories.festival.FlowerCrown.description=
 //TODO Translate [Reference] 'Flower Crown'
-staxel.accessories.characters.accessories.festival.FlowerCrown.name=
+staxel.accessories.characters.accessories.festival.FlowerCrown.name=Couronne de fleurs
 staxel.accessories.characters.accessories.festival.KabutoHelmet.description=
 //TODO Translate [Reference] 'Kabuto Helmet'
 staxel.accessories.characters.accessories.festival.KabutoHelmet.name=
 staxel.accessories.characters.accessories.halloween.PumpkingHat.description=
 //TODO Translate [Reference] 'Pumpking Hat'
-staxel.accessories.characters.accessories.halloween.PumpkingHat.name=
+staxel.accessories.characters.accessories.halloween.PumpkingHat.name=Chapeau du Roi Citrouille
 staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.description=
 //TODO Translate [Reference] 'PumpkinHat'
-staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.name=
+staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.name=Chapeau Citrouille
 staxel.accessories.fullBodyOutfits.villager.Aliza.description=
 //TODO Translate [Reference] 'Aliza'
 staxel.accessories.fullBodyOutfits.villager.Aliza.name=
@@ -692,12 +682,12 @@ staxel.accessories.helmets.mecha.Mecha_XYellow.description=
 staxel.accessories.helmets.mecha.Mecha_XYellow.name=
 //[Reference] 'None'
 staxel.accessory.none=Aucun
-//TODO Translate [Reference] 'Get your first pet!'
-staxel.achievement.GetPet.description=
-//TODO Translate [Reference] 'Get a pet'
-staxel.achievement.GetPet.name=
-//TODO Translate [Reference] 'Get your first pet!'
-staxel.achievements.getPet=
+//[Reference] 'Get your first pet!'
+staxel.achievement.GetPet.description=Adoptez votre premier animal !
+//[Reference] 'Get a pet'
+staxel.achievement.GetPet.name=Adopté !
+//[Reference] 'Get your first pet!'
+staxel.achievements.getPet=Adoptez un animal !
 //[Reference] 'Ouch! The bees need to be calmed down'
 staxel.apiary.calmWorkers=Ouille ! Les abeilles doivent être calmées
 //[Reference] 'This apiary has enough bees'
@@ -720,26 +710,22 @@ staxel.apiary.state.producing=Les abeilles font du miel : plus que {0-days} jour
 staxel.apiary.state.rallying=La reine attire des abeilles :{0-bees}/{1-total} abeilles
 //[Reference] 'Honey is available but the bees are grumpy'
 staxel.apiary.state.waiting=Du miel est disponible, mais les abeilles sont en colère
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'A bush that grows delicious blackberries. Survives out of season.'
-staxel.bush.BlackberryBush.description=Un buisson de délicieuses mûres
+staxel.bush.BlackberryBush.description=Un buisson produisant de délicieuses mûres
 //[Reference] 'Blackberry Bush Seed'
-staxel.bush.BlackberryBush.name=Graine de buisson à mûres
-//[Validate] Delete this comment if or when the translation is accurate.
+staxel.bush.BlackberryBush.name=Graine de mûrier
 //[Reference] 'A bush that grows delicious blueberries. Survives out of season.'
 staxel.bush.BlueberryBush.description=Un buisson aux délicieuses myrtilles.
 //[Reference] 'Blueberry Bush Seed'
-staxel.bush.BlueberryBush.name=Graine de buisson à myrtille
-//[Validate] Delete this comment if or when the translation is accurate.
+staxel.bush.BlueberryBush.name=Graine de myrtillier
 //[Reference] 'A bush that grows delicious goldenberries. Survives out of season.'
 staxel.bush.GoldenberryBush.description=Un buisson aux délicieuses argouses
 //[Reference] 'Goldenberry Bush Seed'
-staxel.bush.GoldenberryBush.name=Graine de buisson à argouse
-//[Validate] Delete this comment if or when the translation is accurate.
+staxel.bush.GoldenberryBush.name=Graine d'argousier
 //[Reference] 'A bush that grows delicious raspberries. Survives out of season.'
 staxel.bush.RaspberryBush.description=Un buisson aux délicieuses framboises
 //[Reference] 'Raspberry Bush Seed'
-staxel.bush.RaspberryBush.name=Graine de buisson à framboise
+staxel.bush.RaspberryBush.name=Graine de framboisier
 //TODO Translate [Reference] 'assemble'
 staxel.category.assemble=
 //TODO Translate [Reference] 'assembly'
@@ -1612,38 +1598,38 @@ staxel.notifications.weatherAlreadyWatered=Vous n'avez pas à arroser les planta
 staxel.notifications.weatherSnowyAlreadyWatered=Vous n'avez pas à arroser les plantations quand il neige !
 //[Reference] 'This isn't the right tool'
 staxel.notifications.WrongTool=Ce n'est pas le bon outil
-//TODO Translate [Reference] 'break'
-staxel.notifications.WrongTool.Verb.Break=
-//TODO Translate [Reference] 'catch'
-staxel.notifications.WrongTool.Verb.Catch=
-//TODO Translate [Reference] 'chop'
-staxel.notifications.WrongTool.Verb.Chop=
-//TODO Translate [Reference] 'cut'
-staxel.notifications.WrongTool.Verb.Cut=
-//TODO Translate [Reference] 'dig'
-staxel.notifications.WrongTool.Verb.Dig=
-//TODO Translate [Reference] 'harvest'
-staxel.notifications.WrongTool.Verb.Harvest=
-//TODO Translate [Reference] 'take'
-staxel.notifications.WrongTool.Verb.Pickup=
-//TODO Translate [Reference] 'pull'
-staxel.notifications.WrongTool.Verb.Pull=
-//TODO Translate [Reference] 'sweep'
-staxel.notifications.WrongTool.Verb.Sweep=
-//TODO Translate [Reference] 'till'
-staxel.notifications.WrongTool.Verb.Till=
-//TODO Translate [Reference] 'your hands'
-staxel.notifications.WrongTool.YourHands=
-//TODO Translate [Reference] 'You need: {0} to {1} this.'
-staxel.notifications.WrongToolUniversal.1=
-//TODO Translate [Reference] 'You need: {0} or {1} to {2}/{3} this.'
-staxel.notifications.WrongToolUniversal.2=
-//TODO Translate [Reference] 'You need: {0}, {1}, or {2} to {3}/{4}/{5} this.'
-staxel.notifications.WrongToolUniversal.3=
-//TODO Translate [Reference] 'You need: {0}, {1}, {2}, or {3} to {4}/{5}/{6}/{7} this.'
-staxel.notifications.WrongToolUniversal.4=
-//TODO Translate [Reference] 'You need: {0}, {1}, {2}, {3}, or {4} to {5}/{6}/{7}/{8}/{9} this.'
-staxel.notifications.WrongToolUniversal.5=
+//[Reference] 'break'
+staxel.notifications.WrongTool.Verb.Break=casser
+//[Reference] 'catch'
+staxel.notifications.WrongTool.Verb.Catch=attraper
+//[Reference] 'chop'
+staxel.notifications.WrongTool.Verb.Chop=couper
+//[Reference] 'cut'
+staxel.notifications.WrongTool.Verb.Cut=couper
+//[Reference] 'dig'
+staxel.notifications.WrongTool.Verb.Dig=creuser
+//[Reference] 'harvest'
+staxel.notifications.WrongTool.Verb.Harvest=récolter
+//[Reference] 'take'
+staxel.notifications.WrongTool.Verb.Pickup=prendre
+//[Reference] 'pull'
+staxel.notifications.WrongTool.Verb.Pull=tirer
+//[Reference] 'sweep'
+staxel.notifications.WrongTool.Verb.Sweep=balayer
+//[Reference] 'till'
+staxel.notifications.WrongTool.Verb.Till=labourer
+//[Reference] 'your hands'
+staxel.notifications.WrongTool.YourHands=vos mains
+//[Reference] 'You need: {0} to {1} this.'
+staxel.notifications.WrongToolUniversal.1=Vous avez besoin de : {0} pour {1} ceci.
+//[Reference] 'You need: {0} or {1} to {2}/{3} this.'
+staxel.notifications.WrongToolUniversal.2=Vous avez besoin de : {0} ou {1} pour {2}/{3} ceci.
+//[Reference] 'You need: {0}, {1}, or {2} to {3}/{4}/{5} this.'
+staxel.notifications.WrongToolUniversal.3=Vous avez besoin de : {0}, {1}, ou {2} pour {3}/{4}/{5} ceci.
+//[Reference] 'You need: {0}, {1}, {2}, or {3} to {4}/{5}/{6}/{7} this.'
+staxel.notifications.WrongToolUniversal.4Vous avez besoin de : {0}, {1}, {2}, ou {3} pour {4}/{5}/{6}/{7} ceci.
+//[Reference] 'You need: {0}, {1}, {2}, {3}, or {4} to {5}/{6}/{7}/{8}/{9} this.'
+staxel.notifications.WrongToolUniversal.5=Vous avez besoin de : {0}, {1}, {2}, {3}, ou {4} pour {5}/{6}/{7}/{8}/{9} ceci.
 //[Reference] 'Chicken'
 staxel.personality.Chicken=Poulet
 //[Reference] 'Cow'
@@ -1662,51 +1648,51 @@ staxel.pets.Cat.name=Chat
 staxel.pets.Dog.name=Chien
 //[Reference] '{0-pet} has brought you a gift!'
 staxel.pets.GiftReceived={0-pet} vous a apporté un cadeau !
-staxel.plant.crop.Sunflower.description=
-//TODO Translate [Reference] 'Sunflower'
-staxel.plant.crop.Sunflower.name=
+staxel.plant.crop.Sunflower.description=Il se tourne vers le soleil
+//TODO [Reference] 'Sunflower'
+staxel.plant.crop.Sunflower.name=Tournesol
 staxel.plant.gatherable.SnowMound.description=
-//TODO Translate [Reference] 'SnowMound'
-staxel.plant.gatherable.SnowMound.name=
+//TODO [Reference] 'SnowMound'
+staxel.plant.gatherable.SnowMound.name=Spirée
 staxel.plant.gatherable.StarJelly.description=
-//TODO Translate [Reference] 'StarJelly'
-staxel.plant.gatherable.StarJelly.name=
-//TODO Translate [Reference] 'Free in Creative'
-staxel.priceTag.freeInCreative=
+//[Reference] 'StarJelly'
+staxel.plant.gatherable.StarJelly.name=Gelée Stellaire
+//[Reference] 'Free in Creative'
+staxel.priceTag.freeInCreative=Gratuit en Créatif
 //[Reference] 'Autumn'
 staxel.season.Autumn=Automne
-//TODO Translate [Reference] '1st'
-staxel.season.date.1=
-//TODO Translate [Reference] '10th'
-staxel.season.date.10=
-//TODO Translate [Reference] '11th'
-staxel.season.date.11=
-//TODO Translate [Reference] '12th'
-staxel.season.date.12=
-//TODO Translate [Reference] '13th'
-staxel.season.date.13=
-//TODO Translate [Reference] '14th'
-staxel.season.date.14=
-//TODO Translate [Reference] '15th'
-staxel.season.date.15=
-//TODO Translate [Reference] '16th'
-staxel.season.date.16=
-//TODO Translate [Reference] '2nd'
-staxel.season.date.2=
-//TODO Translate [Reference] '3rd'
-staxel.season.date.3=
-//TODO Translate [Reference] '4th'
-staxel.season.date.4=
-//TODO Translate [Reference] '5th'
-staxel.season.date.5=
-//TODO Translate [Reference] '6th'
-staxel.season.date.6=
-//TODO Translate [Reference] '7th'
-staxel.season.date.7=
-//TODO Translate [Reference] '8th'
-staxel.season.date.8=
-//TODO Translate [Reference] '9th'
-staxel.season.date.9=
+//[Reference] '1st'
+staxel.season.date.1=1er
+//[Reference] '10th'
+staxel.season.date.10=10
+//[Reference] '11th'
+staxel.season.date.11=11
+//[Reference] '12th'
+staxel.season.date.12=12
+//[Reference] '13th'
+staxel.season.date.13=13
+//[Reference] '14th'
+staxel.season.date.14=14
+//[Reference] '15th'
+staxel.season.date.15=15
+//[Reference] '16th'
+staxel.season.date.16=16
+//[Reference] '2nd'
+staxel.season.date.2=2
+//[Reference] '3rd'
+staxel.season.date.3=3
+//[Reference] '4th'
+staxel.season.date.4=4
+//[Reference] '5th'
+staxel.season.date.5=5
+//[Reference] '6th'
+staxel.season.date.6=6
+//[Reference] '7th'
+staxel.season.date.7=7
+//[Reference] '8th'
+staxel.season.date.8=8
+//[Reference] '9th'
+staxel.season.date.9=9
 //[Reference] 'Spring'
 staxel.season.Spring=Printemps
 //[Reference] 'Summer'
